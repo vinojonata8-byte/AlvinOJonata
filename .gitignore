@@ -21,3 +21,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+http://localhost:8158/index.html
